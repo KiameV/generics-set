@@ -16,7 +16,7 @@ import (
 	
 	"github.com/stretchr/testify/assert"
 
-	set "github.com/kiamev/generics-set/generics"
+	set "github.com/kiamev/generics-set/set"
 )
 
 type (
